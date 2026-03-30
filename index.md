@@ -1,16 +1,16 @@
 # ALUNGILE VINCENT KANZI
 
-📧 221188932@mycput.ac.za  
-📞 081 274 2329  
-📍 5 Mlatha Street, Wellington, 7655  
-
+ 221188932@mycput.ac.za  
+ 081 274 2329  
+ 5 Mlatha Street, Wellington, 7655  
+ https://www.linkedin.com/in/vincent-kanzi-a49349238/ 
 ---
 
-## 🎯 Profile
+##  Profile
 I am a hardworking and ambitious individual with a strong passion for the IT industry. I possess excellent communication skills, enabling me to effectively interact with a wide range of people. I am currently seeking an opportunity to apply my skills in a challenging work environment and become a valuable asset to the organization.
 
 ---
-## 🎓 Education
+##  Education
 
 ### Diploma in Information & Communication Technology  
 **Cape Peninsula University of Technology**  
@@ -26,7 +26,7 @@ I am a hardworking and ambitious individual with a strong passion for the IT ind
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### ICTS Intern  
 **Cape Peninsula University of Technology**  
@@ -49,7 +49,7 @@ I am a hardworking and ambitious individual with a strong passion for the IT ind
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 - Java  
 - JavaScript  
 - HTML5 & CSS  
@@ -59,7 +59,7 @@ I am a hardworking and ambitious individual with a strong passion for the IT ind
 
 ---
 
-## 🛠 Projects
+##  Projects
 
 ### University Residence Incident System (2025)
 - Developed a laundry incident management system for university residences  
@@ -78,10 +78,10 @@ I am a hardworking and ambitious individual with a strong passion for the IT ind
 
 ---
 
-## 📞 References
+##  References
 
 **Avuyile Malotana || Manager || MALOTANA SOFTWARE CONSULATING**  
-📞 067 820 1693  
+ 067 820 1693  
 
 **Mr Alexander || Manager || CAPE PENINSULA UNIVERSITY OF TECGNOLOGY**  
-📞 082 200 6708  
+ 082 200 6708  
