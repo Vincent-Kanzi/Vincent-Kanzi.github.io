@@ -89,7 +89,7 @@ I am a hardworking and ambitious individual with a strong passion for the IT ind
 
 ## CV Reflection
 
-I needed to create a professional online CV that could easily be shared and published digitally. My task was to convert my traditional CV into Markdown format while keeping it clean, structured, and professional. I did research and used Markdown syntax such as headings, bullet points, links, and sections to organize my personal information, education, work experience, technical skills, and references. As a result, I created a well-formatted digital CV that can be hosted online through GitHub, while also improving my Markdown writing and formatting skills.
+I needed to create a professional online CV that could easily be shared and published digitally. My task was to convert my traditional CV into Markdown format while keeping it clean, structured, and professional. I did research and used Markdown syntax such as headings, bullet points, links, and sections to organize my personal information, education, work experience, technical skills, and references. As a result, I created a well formatted digital CV that can be hosted online through GitHub, while also improving my Markdown writing and formatting skills.
 
 ---
 
